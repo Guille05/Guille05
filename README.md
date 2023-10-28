@@ -1,7 +1,7 @@
-👋 Hi, I’m @Guille05
-👀 I’m interested in getting an internship as a Software Engineering Intern or Web Development Intern.
-🌱 I’m currently a rising junior pursuing my Bachelor's degree in Computer Science at University of South Florida.
-📫 How to reach me email(gagarciajr@gmail.com )
+- 👋 Hi, I’m @Guille05
+- 👀 I’m interested in getting an internship as a Software Engineering Intern or Web Development Intern.
+- 🌱 I’m currently a rising junior pursuing my Bachelor's degree in Computer Science at University of South Florida.
+- 📫 How to reach me email(gagarciajr@gmail.com )
 
 <!--
 **Guille05/Guille05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
